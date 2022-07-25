@@ -3,7 +3,7 @@ const app = express();
  const connectDB = require("./backend/config/db")
  const dotenv = require("dotenv")
  const morgan = require("morgan");
-const bodyParser = require("body-parser");
+// const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
 
 const userRoutes = require("./backend/routes/userRoutes");
