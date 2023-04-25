@@ -14,7 +14,8 @@ npm install
 
 
 Start the server:
-npm start 
+
+``npm start``
 
 # **License**
 
