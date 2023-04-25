@@ -6,6 +6,7 @@ The application allows users to create, read, update, and delete products and ca
 # **Installation**
 
 1- Clone the repository:
+
 ``git clone https://github.com/Walid98ahmed/e-comerce-platform-nodejs.git``
 
 2- Install dependencies:
