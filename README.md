@@ -3,7 +3,7 @@
 This is a CRUD (Create, Read, Update, Delete) application for an e-commerce platform, built using Node.js and JavaScript.
 The application allows users to create, read, update, and delete products and categories.
 
-#Installation
+**Installation**
 
 1- Clone the repository:
 git clone https://github.com/Walid98ahmed/e-comerce-platform-nodejs.git
